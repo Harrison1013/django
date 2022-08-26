@@ -1,0 +1,21 @@
+2022-05-11 07:41:50,359 - browserEngine - ERROR - webDriver init fail
+2022-05-11 07:41:50,360 - browserEngine - ERROR - module 'selenium.webdriver' has no attribute 'Chromeoptions'
+2022-05-11 07:42:18,272 - browserEngine - ERROR - webDriver init fail
+2022-05-11 07:42:18,275 - browserEngine - ERROR - unsupported operand type(s) for +: 'function' and 'str'
+2022-05-11 07:43:18,037 - browserEngine - ERROR - webDriver init fail
+2022-05-11 07:43:18,043 - browserEngine - ERROR - Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-05-11 07:43:53,128 - browserEngine - ERROR - webDriver init fail
+2022-05-11 07:43:53,129 - browserEngine - ERROR - Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-05-11 07:44:15,577 - browserEngine - ERROR - webDriver init fail
+2022-05-11 07:44:15,580 - browserEngine - ERROR - Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-05-11 07:45:15,419 - browserEngine - ERROR - webDriver init fail
+2022-05-11 07:45:15,422 - browserEngine - ERROR - Message: 'chromedriver.exec' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+2022-05-11 07:46:37,974 - browserEngine - INFO - webDriver init success
+2022-05-11 07:47:40,632 - browserEngine - INFO - webDriver init success
+2022-05-11 07:48:03,875 - browserEngine - INFO - webDriver init success
+2022-05-11 07:48:20,069 - browserEngine - INFO - webDriver init success
+2022-05-11 07:51:44,479 - browserEngine - INFO - webDriver init success
